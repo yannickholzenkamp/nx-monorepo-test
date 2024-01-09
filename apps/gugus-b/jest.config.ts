@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
-  displayName: 'ng-monorepo-test',
+  displayName: 'gugus-b',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/ng-monorepo-test',
+  coverageDirectory: '../../coverage/apps/gugus-b',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',
